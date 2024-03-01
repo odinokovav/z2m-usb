@@ -1,5 +1,5 @@
 {
   "name": "Zigbee2MQTT-USB",
   "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
-  "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
+  "maintainer": "https://github.com/odinokovav/z2m-usb"
 }
